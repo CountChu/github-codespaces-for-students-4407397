@@ -8,9 +8,9 @@
 
     "remoteUser": "node",
 
-    "forwardPorts": [3333],
+    "forwardPorts": [3000],
     "portsAttributes": {
-        "3333": {
+        "3000": {
             "label": "React App",
             "onAutoForward": "openPreview"
         }
